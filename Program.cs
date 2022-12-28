@@ -3,7 +3,6 @@ using static System.Console;
 
 Clear();
 string [] array = new string[] {"All", "you", "need", "is", "love", "<3"}; 
-//string [] NewArray = new string[array.Length];
 
 PrintArray(array);
 WriteLine();
